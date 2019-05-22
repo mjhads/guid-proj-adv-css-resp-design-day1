@@ -8,8 +8,8 @@
 - Fixed, Fluid, Adaptive, Responsive
 - Viewport Meta Tag
 - Responsive Units
-  - What?
-  - When?
-  - How?
-  - Why?
+  -- What?
+  -- When?
+  -- How?
+  -- Why?
 - Media Queries 
